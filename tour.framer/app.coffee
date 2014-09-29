@@ -27,8 +27,7 @@ sidebar.x = -660
 gradient.sendToBack()
 gradient.style = scale: 0
 
-Framer.Device.contentScale = 1.0
-Framer.Device.deviceScale = 1.0
+fullScreen = true
 
 # define your draggable layers in an array
 dragLayers = [welcome, gradient, gradient2]
